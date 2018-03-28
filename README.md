@@ -9,15 +9,9 @@
 ### 2 people per group, 25% in total grading
 
 ### Time Schedule
-
-#### Announcement: 
-March 28 (Wed)
-
-#### Midterm report Deadline: 
-April 18 (Wed) at 23:59
-
-#### Final report Deadline: 
-May 16 (Wed) at 23:59
+* Announcement: March 28 (Wed)
+* Midterm report Deadline: April 18 (Wed) at 23:59
+* Final report Deadline: May 16 (Wed) at 23:59
 
 ### For More Information, please check the project overview [here](./overview.pdf) 
 
